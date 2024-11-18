@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola
+
+Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear valor en las organizaciones por las que tengo la posibilidad de estar. Si bien tengo varias experiencias profesionales en el área de Ing. Industrial y docencia universitaria, desde el 2022 decidí adquirir la habilidad para el desarrollo web fullstack tomando en cuenta la carrera en la cual imparto docencia que es Computación, para ello he tomado ya varios cursos que suman en total más de 1000 horas los que me han permitido desarrollar ya varios proyectos y conocer este mundo maravilloso del desarrollo web. 
+~~~
+~~~
+A partir de ello he creado ya varias aplicaciones web propias que me han permitido simplificar los procesos en actividades complementarias a la docencia que me han sido encomendadas dentro de la universidad. Actualmente soy maestrante en ingeniería de software por la Unir para poder complementar mi formación basada en cursos, lo que me servirá tanto para alinear mi perfil profesional a la docencia de la carrera así como para incursionar en el mundo de desarrollo pero ya a nivel profesional.
 
 <!--
 **maibarra0904/maibarra0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
