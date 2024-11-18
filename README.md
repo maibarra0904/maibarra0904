@@ -25,18 +25,18 @@ Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear v
 
 ## Proyectos destacados
 
-- **[ToDo App](https://todotask23bymaim.netlify.app){:target="_blank"}**: Una aplicación para gestionar tareas diarias.
-- **[URL Short](https://react-6fe97.web.app){:target="_blank"}**: Una aplicación de propósito general para acortar url's que a veces son muy extensas.
-- **[Blog](https://blogstatic.netlify.app/){:target="_blank"}**: Un ejemplo de cómo podría ser un blog personal.
-- **[Cotizador de Criptomonedas](https://cotizador-criptos-23.netlify.app/){:target="_blank"}**: Un cotizador de criptos que consume una api externa.
-- **[NodeSend](https://nodesendfrontend-next.vercel.app/){:target="_blank"}**: Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
+- **[ToDo App](https://todotask23bymaim.netlify.app{:target="_blank"})**: Una aplicación para gestionar tareas diarias.
+- **[URL Short](https://react-6fe97.web.app{:target="_blank"})**: Una aplicación de propósito general para acortar url's que a veces son muy extensas.
+- **[Blog](https://blogstatic.netlify.app/{:target="_blank"})**: Un ejemplo de cómo podría ser un blog personal.
+- **[Cotizador de Criptomonedas](https://cotizador-criptos-23.netlify.app/{:target="_blank"})**: Un cotizador de criptos que consume una api externa.
+- **[NodeSend](https://nodesendfrontend-next.vercel.app/{:target="_blank"})**: Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
 
 ---
 
 ## Contacto
 
 - **Email**: [mario.ibarra.86@gmail.com](mailto:mario.ibarra.86@gmail.com)
-- **LinkedIn**: [linkedin.com/in/mario-ibarra-martinez](https://linkedin.com/in/mario-ibarra-martinez){:target="_blank"}
+- **LinkedIn**: [linkedin.com/in/mario-ibarra-martinez](https://linkedin.com/in/mario-ibarra-martinez{:target="_blank"})
 
 ---
 
