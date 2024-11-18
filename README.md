@@ -19,24 +19,24 @@ Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear v
 
 ### Complementarias
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
 ## Proyectos destacados
 
-- **[ToDo App](https://todotask23bymaim.netlify.app)**: Una aplicación para gestionar tareas diarias.
-- **[URL Short](https://react-6fe97.web.app)**: Una aplicación de propósito general para acortar url's que a veces son muy extensas.
-- **[Blog](https://blogstatic.netlify.app/)**: Un ejemplo de cómo podría ser un blog personal.
-- **[Cotizador de Criptomonedas](https://cotizador-criptos-23.netlify.app/)**: Un cotizador de criptos que consume una api externa.
-- **[NodeSend](https://nodesendfrontend-next.vercel.app/)**: Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
+- **[ToDo App](https://todotask23bymaim.netlify.app){:target="_blank"}**: Una aplicación para gestionar tareas diarias.
+- **[URL Short](https://react-6fe97.web.app){:target="_blank"}**: Una aplicación de propósito general para acortar url's que a veces son muy extensas.
+- **[Blog](https://blogstatic.netlify.app/){:target="_blank"}**: Un ejemplo de cómo podría ser un blog personal.
+- **[Cotizador de Criptomonedas](https://cotizador-criptos-23.netlify.app/){:target="_blank"}**: Un cotizador de criptos que consume una api externa.
+- **[NodeSend](https://nodesendfrontend-next.vercel.app/){:target="_blank"}**: Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
 
 ---
 
 ## Contacto
 
 - **Email**: [mario.ibarra.86@gmail.com](mailto:mario.ibarra.86@gmail.com)
-- **LinkedIn**: [linkedin.com/in/mario-ibarra-martinez](https://linkedin.com/in/mario-ibarra-martinez)
+- **LinkedIn**: [linkedin.com/in/mario-ibarra-martinez](https://linkedin.com/in/mario-ibarra-martinez){:target="_blank"}
 
 ---
 
