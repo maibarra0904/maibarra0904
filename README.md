@@ -25,12 +25,27 @@ Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear v
 
 ## Proyectos destacados
 
-- **[ToDo App](https://todotask23bymaim.netlify.app{:target="_blank"})**: Una aplicación para gestionar tareas diarias.
-- **[URL Short](https://react-6fe97.web.app{:target="_blank"})**: Una aplicación de propósito general para acortar url's que a veces son muy extensas.
-- **[Blog](https://blogstatic.netlify.app/{:target="_blank"})**: Un ejemplo de cómo podría ser un blog personal.
-- **[Cotizador de Criptomonedas](https://cotizador-criptos-23.netlify.app/{:target="_blank"})**: Un cotizador de criptos que consume una api externa.
-- **[NodeSend](https://nodesendfrontend-next.vercel.app/{:target="_blank"})**: Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
 
+<a href="https://todotask23bymaim.netlify.app" target="_blank">
+  - <span>ToDo App:</span>
+  Una aplicación para gestionar tareas diarias.
+</a>
+<a href="https://react-6fe97.web.app" target="_blank">
+  - <span>URL Short:</span>
+  Una aplicación de propósito general para acortar url's que a veces son muy extensas.
+</a>
+<a href="https://blogstatic.netlify.app/" target="_blank">
+  - <span>Blog:</span>
+  Un ejemplo de cómo podría ser un blog personal.
+</a>
+<a href="https://cotizador-criptos-23.netlify.app/" target="_blank">
+  - <span>Cotizador de Criptomonedas:</span>
+  Un cotizador de criptos que consume una api externa.
+</a>
+<a href="https://nodesendfrontend-next.vercel.app/" target="_blank">
+  - <span>NodeSend:</span>
+  Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
+</a>
 ---
 
 ## Contacto
