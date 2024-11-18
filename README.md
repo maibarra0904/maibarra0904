@@ -1,4 +1,5 @@
-## Hola ![image](https://github.com/user-attachments/assets/9f07c6b8-14ad-4401-b9ba-a48b06490e2a)
+## Hola
+
 
 
 Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear valor en las organizaciones por las que tengo la posibilidad de estar. Si bien tengo varias experiencias profesionales en el área de Ing. Industrial y docencia universitaria, desde el 2022 decidí adquirir la habilidad para el desarrollo web fullstack tomando en cuenta la carrera en la cual imparto docencia que es Computación, para ello he tomado ya varios cursos que suman en total más de 1000 horas los que me han permitido desarrollar ya varios proyectos y conocer este mundo maravilloso del desarrollo web. 
