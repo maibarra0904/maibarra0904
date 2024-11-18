@@ -10,22 +10,30 @@ Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear v
 
 ### Tecnologías
 
-- **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- **Next.js** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-- **SQL** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+- ![React](https://img.icons8.com/ios/50/000000/react-native.png) **React**
+- ![Next.js](https://img.icons8.com/ios/50/000000/nextjs.png) **Next.js**
+- ![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png) **Node.js**
+- ![Nest.js](https://img.icons8.com/ios/50/000000/nestjs.png) **Nest.js**
+- ![GraphQL](https://img.icons8.com/ios/50/000000/graphql.png) **GraphQL**
+- ![PostgreSQL](https://img.icons8.com/ios/50/000000/postgreesql.png) **PostgreSQL**
+- ![Docker](https://img.icons8.com/ios/50/000000/docker.png) **Docker**
 
 ### Otras Habilidades
 
 - **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - **CSS3** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **Tailwind CSS** ![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwind-css.png) 
 
 ---
 
 ## Proyectos Destacados
 
-- **[Aplicación de Tareas](https://todotask23bymaim.netlify.app)**: Una aplicación para gestionar tareas diarias, construida con React.
-- **[Acortar URL's](https://react-6fe97.web.app)**: Una aplicación para acortar url's que a veces son muy extensas para propósitos generales.
+- **[ToDo App](https://todotask23bymaim.netlify.app)**: Una aplicación para gestionar tareas diarias.
+- **[URL Short](https://react-6fe97.web.app)**: Una aplicación de propósito general para acortar url's que a veces son muy extensas.
+- **[Blog](https://blogstatic.netlify.app/)**: Un ejemplo de cómo podría ser un blog personal.
+- **[Cotizador de Criptomonedas](https://cotizador-criptos-23.netlify.app/)**: Un cotizador de criptos que consume una api externa.
+- **[NodeSend](https://nodesendfrontend-next.vercel.app/)**: Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
 
 ---
 
