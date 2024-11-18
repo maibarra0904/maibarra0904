@@ -1,23 +1,39 @@
-## Hola
+# Mario Ibarra
 
-
+### Desarrollador Web
 
 Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear valor en las organizaciones por las que tengo la posibilidad de estar. Si bien tengo varias experiencias profesionales en el área de Ing. Industrial y docencia universitaria, desde el 2022 decidí adquirir la habilidad para el desarrollo web fullstack tomando en cuenta la carrera en la cual imparto docencia que es Computación, para ello he tomado ya varios cursos que suman en total más de 1000 horas los que me han permitido desarrollar ya varios proyectos y conocer este mundo maravilloso del desarrollo web. 
 ~~~
+
 ~~~
-A partir de ello he creado ya varias aplicaciones web propias que me han permitido simplificar los procesos en actividades complementarias a la docencia que me han sido encomendadas dentro de la universidad. Actualmente soy maestrante en ingeniería de software por la Unir para poder complementar mi formación basada en cursos, lo que me servirá tanto para alinear mi perfil profesional a la docencia de la carrera así como para incursionar en el mundo de desarrollo pero ya a nivel profesional.
+## Habilidades
 
-<!--
-**maibarra0904/maibarra0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologías
 
-Here are some ideas to get you started:
+- **React** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- **Next.js** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+- **SQL** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Otras Habilidades
+
+- **HTML5** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- **CSS3** ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## Proyectos Destacados
+
+- **[Aplicación de Tareas](https://todotask23bymaim.netlify.app)**: Una aplicación para gestionar tareas diarias, construida con React.
+- **[Acortar URL's](https://react-6fe97.web.app)**: Una aplicación para acortar url's que a veces son muy extensas para propósitos generales.
+
+---
+
+## Contacto
+
+- **Email**: [mario.ibarra.86@gmail.com](mailto:mario.ibarra.86@gmail.com)
+- **LinkedIn**: [linkedin.com/in/mario-ibarra-martinez](https://linkedin.com/in/mario-ibarra-martinez)
+
+---
+
+¡Gracias por visitar mi página!
