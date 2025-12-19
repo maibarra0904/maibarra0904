@@ -1,10 +1,10 @@
 # Mario Ibarra
 
-## Desarrollador Web
+## FullStack Developer
 
-Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear valor en las organizaciones por las que tengo la posibilidad de estar. Si bien tengo varias experiencias profesionales en el área de Ing. Industrial y docencia universitaria, desde el 2022 decidí adquirir la habilidad para el desarrollo web fullstack tomando en cuenta la carrera en la cual imparto docencia que es Computación, para ello he tomado ya varios cursos que me han permitido desarrollar ya varios proyectos y conocer este mundo maravilloso del desarrollo web. Actualmente soy maestrante en Ingeniería de software por la Unir.
+My name is Mario Ibarra, and my professional purpose is to consistently create measurable value within the organizations I engage with. I bring solid experience in Industrial Engineering and university-level teaching; however, in 2022 I made a strategic decision to expand my skill set into full-stack web development, aligned with my academic role in Computer Science. Since then, I have completed multiple specialized courses that have enabled me to design and deliver several practical projects, gaining hands-on exposure to modern web technologies and development practices. I currently hold a Master’s Degree in Software Engineering from UNIR, which strengthens my ability to integrate engineering rigor, educational insight, and contemporary software solutions to drive innovation and impact.
 
-## Tecnologías usadas
+## Technologies used
 
 ### FrontEnd
 
@@ -17,13 +17,13 @@ Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear v
 ### DataBases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Complementarias
+### Complementary Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
-## Proyectos destacados
+## Featured projects
 
 
 - **[ToDo App](https://todotask23bymaim.netlify.app):** Una aplicación para gestionar tareas diarias.
@@ -33,7 +33,7 @@ Mi nombre es Mario Ibarra y el objetivo principal que me he propuesto es crear v
 - **[NodeSend](https://nodesendfrontend-next.vercel.app/):** Envía documentos fácilmente. Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
 
 
-## Contacto
+## Contact
 
 - **Email**: [mario.ibarra.86@gmail.com](mailto:mario.ibarra.86@gmail.com)
 - **LinkedIn**: [linkedin.com/in/mario-ibarra-martinez](https://linkedin.com/in/mario-ibarra-martinez{:target="_blank"})
