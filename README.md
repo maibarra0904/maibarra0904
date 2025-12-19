@@ -42,5 +42,3 @@ My name is Mario Ibarra, and my professional purpose is to consistently create m
 - **LinkedIn**: [linkedin.com/in/mario-ibarra-martinez](https://linkedin.com/in/mario-ibarra-martinez{:target="_blank"})
 
 ---
-
-¡Gracias por visitar mi página!
