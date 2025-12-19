@@ -26,11 +26,11 @@ My name is Mario Ibarra, and my professional purpose is to consistently create m
 ## Featured projects
 
 
-- **[ToDo App](https://todotask23bymaim.netlify.app):** Una aplicación para gestionar tareas diarias.
-- **[URL Short](https://react-6fe97.web.app):** Una aplicación de propósito general para acortar URL's que a veces son muy extensas.
-- **[Blog](https://blogstatic.netlify.app/):** Un ejemplo de cómo podría ser un blog personal.
-- **[Cotizador de Criptomonedas](https://cotizador-criptos-23.netlify.app/):** Un cotizador de criptos que consume una API externa.
-- **[NodeSend](https://nodesendfrontend-next.vercel.app/):** Envía documentos fácilmente. Una herramienta sencilla que te permite subir documentos y generar enlaces únicos para su descarga. (Debes esperar unos segundos a que cargue bien el sitio porque consume tecnología gratuita)
+- **[ToDo App](https://todotask23bymaim.netlify.app):** An application for managing daily tasks.
+- **[URL Short](https://react-6fe97.web.app):** A general-purpose application for shortening URLs that are sometimes very long.
+- **[Blog](https://blogstatic.netlify.app/):** An example of what a personal blog could look like.
+- **[Cotizador de Criptomonedas](https://cotizador-criptos-23.netlify.app/):** A cryptocurrency price quote tool that consumes an external API.
+- **[NodeSend](https://nodesendfrontend-next.vercel.app/):** Send documents easily. A simple tool that lets you upload documents and generate unique download links. (Please allow a few seconds for the site to load completely as it uses free technology.)
 
 
 ## Contact
