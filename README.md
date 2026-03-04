@@ -2,7 +2,7 @@
 
 ## FullStack Developer
 
-My name is Mario Ibarra, and my professional purpose is to consistently create measurable value within the organizations I engage with. I bring solid experience in Industrial Engineering and university-level teaching; however, in 2022 I made a strategic decision to expand my skill set into full-stack web development, aligned with my academic role in Computer Science. Since then, I have completed multiple specialized courses that have enabled me to design and deliver several practical projects, gaining hands-on exposure to modern web technologies and development practices. I currently hold a Master’s Degree in Software Engineering from UNIR, which strengthens my ability to integrate engineering rigor, educational insight, and contemporary software solutions to drive innovation and impact.
+My professional career is built on a solid foundation in Industrial Engineering and university teaching. This is complemented by specialized training in Software Engineering and web development. As a result, I have developed a well-rounded profile that integrates management, teaching, research, and technological innovation.
 
 ## Technologies used
 
@@ -23,6 +23,10 @@ My name is Mario Ibarra, and my professional purpose is to consistently create m
 ### Complementary Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+
+### Mobile application
+
 
 ---
 
